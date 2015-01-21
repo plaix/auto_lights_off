@@ -5,6 +5,7 @@ I settled on passively monitoring my phone on the network, so this is quickly th
 USAGE
 
 pip install -r requirements.txt
+
 python app.py -m MAC -b IP 
 -d / for debug
 
